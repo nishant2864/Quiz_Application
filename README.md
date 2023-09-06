@@ -54,6 +54,13 @@ if __name__ == "__main__":
         Question("What is the capital of France?", ["Paris", "London", "Berlin", "Madrid"], 0),
         Question("Which planet is known as the Red Planet?", ["Earth", "Mars", "Venus", "Jupiter"], 1),
         Question("What is 7 x 8?", ["48", "56", "64", "72"], 1),
+        Question("How many continents are there on Earth?", ["5", "6", "7", "8"], 1),
+        Question("What is the largest mammal in the world?", ["African elephant", "Giraffe", "Blue whale", "Kangaroo"], 2),
+        Question("What is the chemical symbol for gold?", ["Au", "Ag", "Ge", "Go"], 0),
+        Question("Which gas do plants absorb from the atmosphere?", ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"], 1),
+        Question("What is the smallest prime number?", ["0", "1", "2", "3"], 2),
+        Question("Which country is known as the Land of the Rising Sun?", ["China", "South Korea", "Japan", "Vietnam"], 2),
+        Question("What is the largest planet in our solar system?", ["Earth", "Mars", "Venus", "Jupiter"], 3),
     ]
 
     # Create a Quiz object and run the quiz
